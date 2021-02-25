@@ -1,0 +1,10 @@
+.spaceship-img{
+    background-image: url(https://www.denofgeek.com/wp-content/uploads/2021/02/Star-Trek-Warp-Drive.jpg?resize=768%2C432);
+    background-size: cover;
+    height: 55vh;
+}
+
+.set-height-row{
+    min-height: 35vh;
+}
+
