@@ -5,3 +5,4 @@ My name is Christopher Mitchell. I'm a beginning developer, learning to code at 
 **Currently reading:** Harry Potter and the Methods of Rationality, again.  
 **Currently playing:** Ars Magicka
 
+![](wordcloud.jpg)
