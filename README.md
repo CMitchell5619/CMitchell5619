@@ -4,5 +4,3 @@ My name is Christopher Mitchell. I'm a beginning developer, learning to code at 
 
 **Currently reading:** Clean Code  
 **Currently playing:** Burning Wheel
-
-![](wordcloud.jpg)
